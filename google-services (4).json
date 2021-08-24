@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267968190073",
+    "firebase_url": "https://composite-snow-309813-default-rtdb.firebaseio.com",
+    "project_id": "composite-snow-309813",
+    "storage_bucket": "composite-snow-309813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267968190073:android:61a625b5724f5598cca6a8",
+        "android_client_info": {
+          "package_name": "com.sneakystreamers.sneaksnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267968190073-5pnbfgtigjp7i859kutthmbs13i236dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIGd1ex5qNDGxIIP1_JN6yUvjW5VAs0DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109597869888125895316",
+              "client_type": 3
+            },
+            {
+              "client_id": "267968190073-06nc8f0pp59n7qecukasun6nucg3trdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "iDeC.SteveWidget"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
